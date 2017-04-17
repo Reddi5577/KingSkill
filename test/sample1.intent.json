@@ -1,0 +1,7 @@
+{
+  "utterance": "king",
+  "intent_type": "KingIntent",
+  "intent": {
+    "KingKeyword": "king"
+  }
+}
